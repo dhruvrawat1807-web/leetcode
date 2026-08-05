@@ -18,4 +18,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+## Database
+|  |
+| ------- |
+| [1211-queries-quality-and-percentage](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1211-queries-quality-and-percentage) |
 <!---LeetCode Topics End-->
