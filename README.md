@@ -22,4 +22,8 @@
 |  |
 | ------- |
 | [1211-queries-quality-and-percentage](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1211-queries-quality-and-percentage) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
