@@ -54,6 +54,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0023-merge-k-sorted-lists) |
 ## Divide and Conquer
 |  |
@@ -90,6 +91,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0050-powx-n) |
 ## Enumeration
 |  |
