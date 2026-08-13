@@ -25,6 +25,7 @@
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0176-second-highest-salary) |
 | [1084-sales-analysis-iii](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1084-sales-analysis-iii) |
 | [1211-queries-quality-and-percentage](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1211-queries-quality-and-percentage) |
 ## Math
