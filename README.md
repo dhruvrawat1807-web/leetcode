@@ -28,6 +28,7 @@
 | ------- |
 | [0175-combine-two-tables](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0175-combine-two-tables) |
 | [0176-second-highest-salary](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0176-second-highest-salary) |
+| [0178-rank-scores](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0178-rank-scores) |
 | [1084-sales-analysis-iii](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1084-sales-analysis-iii) |
 | [1211-queries-quality-and-percentage](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1211-queries-quality-and-percentage) |
 | [1341-movie-rating](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1341-movie-rating) |
