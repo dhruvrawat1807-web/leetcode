@@ -31,6 +31,7 @@
 | [0178-rank-scores](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0178-rank-scores) |
 | [1084-sales-analysis-iii](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1084-sales-analysis-iii) |
 | [1211-queries-quality-and-percentage](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1211-queries-quality-and-percentage) |
+| [1321-restaurant-growth](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1321-restaurant-growth) |
 | [1341-movie-rating](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1341-movie-rating) |
 | [1661-average-time-of-process-per-machine](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1661-average-time-of-process-per-machine) |
 ## Math
