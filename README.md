@@ -65,6 +65,7 @@
 | [0002-add-two-numbers](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -103,6 +104,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0050-powx-n) |
 ## Enumeration
 |  |
