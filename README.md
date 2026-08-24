@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Sliding Window
@@ -46,6 +47,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -133,4 +135,12 @@
 |  |
 | ------- |
 | [0240-search-a-2d-matrix-ii](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
