@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0198-house-robber](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0198-house-robber) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 ## Hash Table
@@ -139,6 +140,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0198-house-robber](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0198-house-robber) |
 ## Manacher
 |  |
 | ------- |
