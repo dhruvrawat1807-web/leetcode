@@ -44,6 +44,7 @@
 | [0002-add-two-numbers](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0070-climbing-stairs) |
 | [2427-number-of-common-factors](https://github.com/dhruvrawat1807-web/leetcode/tree/master/2427-number-of-common-factors) |
 ## Two Pointers
 |  |
@@ -140,9 +141,14 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0198-house-robber) |
 ## Manacher
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0005-longest-palindromic-substring) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
