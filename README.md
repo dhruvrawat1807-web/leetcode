@@ -60,6 +60,7 @@
 | [0018-4sum](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0061-rotate-list](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0061-rotate-list) |
 ## Sorting
 |  |
 | ------- |
@@ -81,6 +82,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0061-rotate-list](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0061-rotate-list) |
 ## Divide and Conquer
 |  |
 | ------- |
