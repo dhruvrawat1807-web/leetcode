@@ -11,6 +11,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0063-unique-paths-ii](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0063-unique-paths-ii) |
 | [0198-house-robber](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0198-house-robber) |
+| [0221-maximal-square](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -150,6 +151,7 @@
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0063-unique-paths-ii) |
+| [0221-maximal-square](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0931-minimum-falling-path-sum) |
 ## Dynamic Programming
@@ -160,6 +162,7 @@
 | [0063-unique-paths-ii](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0198-house-robber) |
+| [0221-maximal-square](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0221-maximal-square) |
 | [0931-minimum-falling-path-sum](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0931-minimum-falling-path-sum) |
 ## Manacher
 |  |
