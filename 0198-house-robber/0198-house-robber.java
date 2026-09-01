@@ -3,7 +3,7 @@ class Solution {
         int[] dp = new int[n.length];
         Arrays.fill(dp, -1);
 
-        return solve(n, n.length - 1, dp);
+        return solve(n, n.length-1, dp);
     }
 
     public int solve(int[] n, int i, int[] dp) {
