@@ -28,6 +28,7 @@
 | [0005-longest-palindromic-substring](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0067-add-binary) |
 ## Sliding Window
 |  |
 | ------- |
@@ -52,6 +53,7 @@
 | [0009-palindrome-number](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0070-climbing-stairs) |
 | [2427-number-of-common-factors](https://github.com/dhruvrawat1807-web/leetcode/tree/master/2427-number-of-common-factors) |
 ## Two Pointers
@@ -176,4 +178,12 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0062-unique-paths) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
