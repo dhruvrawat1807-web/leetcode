@@ -40,6 +40,7 @@
 | [0176-second-highest-salary](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0178-rank-scores) |
+| [0184-department-highest-salary](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0185-department-top-three-salaries) |
 | [1084-sales-analysis-iii](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1084-sales-analysis-iii) |
 | [1211-queries-quality-and-percentage](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1211-queries-quality-and-percentage) |
