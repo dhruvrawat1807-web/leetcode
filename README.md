@@ -13,6 +13,7 @@
 | [0198-house-robber](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0494-target-sum](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0494-target-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [3875-construct-uniform-parity-array-i](https://github.com/dhruvrawat1807-web/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -172,6 +173,7 @@
 | [0070-climbing-stairs](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0221-maximal-square) |
+| [0494-target-sum](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0494-target-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0931-minimum-falling-path-sum) |
 ## Manacher
 |  |
@@ -193,4 +195,16 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0067-add-binary) |
+## Backtracking
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0494-target-sum) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
