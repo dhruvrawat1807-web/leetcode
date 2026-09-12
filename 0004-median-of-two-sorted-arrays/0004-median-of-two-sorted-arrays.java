@@ -1,34 +1,60 @@
 class Solution {
-    public double findMedianSortedArrays(int[] a, int[] b) {
-        if (a.length > b.length)
-            return findMedianSortedArrays(b, a);
+    public double findMedianSortedArrays(int[] nums1, int[] nums2) {
 
-        int m = a.length, n = b.length;
-        int l = 0, r = m;
-
-        while (l <= r) {
-            int i = (l + r) / 2;
-            int j = (m + n + 1) / 2 - i;
-
-            int l1 = i == 0 ? Integer.MIN_VALUE : a[i - 1];
-            int r1 = i == m ? Integer.MAX_VALUE : a[i];
-
-            int l2 = j == 0 ? Integer.MIN_VALUE : b[j - 1];
-            int r2 = j == n ? Integer.MAX_VALUE : b[j];
-
-            if (l1 <= r2 && l2 <= r1) {
-                if ((m + n) % 2 == 1)
-                    return Math.max(l1, l2);
-
-                return (Math.max(l1, l2) + Math.min(r1, r2)) / 2.0;
-            }
-
-            if (l1 > r2)
-                r = i - 1;
-            else
-                l = i + 1;
+        // Always binary search on the smaller array
+        if (nums1.length > nums2.length) {
+            return findMedianSortedArrays(nums2, nums1);
         }
 
-        return 0;
+        int m = nums1.length;
+        int n = nums2.length;
+
+        int low = 0;
+        int high = m;
+
+        while (low <= high) {
+
+            // Partition nums1
+            int cut1 = (low + high) / 2;
+
+            // Partition nums2
+            int cut2 = (m + n + 1) / 2 - cut1;
+
+            // Elements just left and right of partitions
+            int left1 = (cut1 == 0) ? Integer.MIN_VALUE : nums1[cut1 - 1];
+            int right1 = (cut1 == m) ? Integer.MAX_VALUE : nums1[cut1];
+
+            int left2 = (cut2 == 0) ? Integer.MIN_VALUE : nums2[cut2 - 1];
+            int right2 = (cut2 == n) ? Integer.MAX_VALUE : nums2[cut2];
+
+            // Correct partition
+            if (left1 <= right2 && left2 <= right1) {
+
+                // Total number of elements is even
+                if ((m + n) % 2 == 0) {
+
+                    return (Math.max(left1, left2)
+                            + Math.min(right1, right2)) / 2.0;
+
+                }
+                // Total number of elements is odd
+                else {
+
+                    return Math.max(left1, left2);
+                }
+            }
+
+            // nums1 partition is too far right
+            else if (left1 > right2) {
+                high = cut1 - 1;
+            }
+
+            // nums1 partition is too far left
+            else {
+                low = cut1 + 1;
+            }
+        }
+
+        return 0.0;
     }
 }
