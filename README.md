@@ -32,6 +32,7 @@
 | [0020-valid-parentheses](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0067-add-binary) |
+| [0115-distinct-subsequences](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0115-distinct-subsequences) |
 ## Sliding Window
 |  |
 | ------- |
@@ -172,6 +173,7 @@
 | [0062-unique-paths](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0115-distinct-subsequences) |
 | [0198-house-robber](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0221-maximal-square) |
 | [0494-target-sum](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0494-target-sum) |
