@@ -33,6 +33,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0115-distinct-subsequences) |
+| [1143-longest-common-subsequence](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1143-longest-common-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -178,6 +179,7 @@
 | [0221-maximal-square](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0221-maximal-square) |
 | [0494-target-sum](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0494-target-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0931-minimum-falling-path-sum) |
+| [1143-longest-common-subsequence](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1143-longest-common-subsequence) |
 ## Manacher
 |  |
 | ------- |
@@ -210,4 +212,8 @@
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0494-target-sum) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
