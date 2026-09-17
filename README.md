@@ -31,6 +31,7 @@
 | [0005-longest-palindromic-substring](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0044-wildcard-matching](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0115-distinct-subsequences) |
 | [1092-shortest-common-supersequence](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1092-shortest-common-supersequence) |
@@ -139,6 +140,7 @@
 | [0002-add-two-numbers](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0024-swap-nodes-in-pairs) |
+| [0044-wildcard-matching](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0050-powx-n) |
 ## Enumeration
 |  |
@@ -172,6 +174,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0044-wildcard-matching](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0070-climbing-stairs) |
@@ -219,4 +222,8 @@
 | ------- |
 | [1092-shortest-common-supersequence](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1143-longest-common-subsequence) |
+## Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->
