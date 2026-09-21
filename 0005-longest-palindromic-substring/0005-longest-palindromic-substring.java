@@ -1,33 +1,28 @@
 class Solution {
-    String[][] dp;
-
     public String longestPalindrome(String s) {
-        int n = s.length();
-        dp = new String[n][n];
-        return solve(s, 0, n - 1);
-    }
-
-    String solve(String s, int l, int r) {
-        if (l > r) return "";
-
-        if (dp[l][r] != null)
-            return dp[l][r];
-
-        if (isPal(s, l, r))
-            return dp[l][r] = s.substring(l, r + 1);
-
-        String a = solve(s, l + 1, r);
-        String b = solve(s, l, r - 1);
-
-        return dp[l][r] =
-            a.length() >= b.length() ? a : b;
-    }
-
-    boolean isPal(String s, int l, int r) {
-        while (l < r) {
-            if (s.charAt(l++) != s.charAt(r--))
-                return false;
+        if (s == null || s.length() < 1) return "";
+        
+        int start = 0, end = 0;
+        
+        for (int i = 0; i < s.length(); i++) {
+            int len1 = expandFromCenter(s, i, i);     // odd length
+            int len2 = expandFromCenter(s, i, i + 1); // even length
+            int len = Math.max(len1, len2);
+            
+            if (len > end - start) {
+                start = i - (len - 1) / 2;
+                end = i + len / 2;
+            }
         }
-        return true;
+        
+        return s.substring(start, end + 1);
+    }
+    
+    private int expandFromCenter(String s, int left, int right) {
+        while (left >= 0 && right < s.length() && s.charAt(left) == s.charAt(right)) {
+            left--;
+            right++;
+        }
+        return right - left - 1; // length of palindrome
     }
 }
