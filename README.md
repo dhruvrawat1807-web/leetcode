@@ -18,6 +18,7 @@
 | [0322-coin-change](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0518-coin-change-ii) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0931-minimum-falling-path-sum](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [3875-construct-uniform-parity-array-i](https://github.com/dhruvrawat1807-web/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -194,6 +195,7 @@
 | [0322-coin-change](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0518-coin-change-ii) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0931-minimum-falling-path-sum](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1092-shortest-common-supersequence](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1143-longest-common-subsequence) |
@@ -253,4 +255,13 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+## Segment Tree
+|  |
+| ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
