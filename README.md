@@ -21,6 +21,7 @@
 | [0518-coin-change-ii](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0518-coin-change-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0931-minimum-falling-path-sum](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0931-minimum-falling-path-sum) |
+| [1048-longest-string-chain](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1048-longest-string-chain) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/dhruvrawat1807-web/leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3875-construct-uniform-parity-array-i](https://github.com/dhruvrawat1807-web/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -30,6 +31,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1048-longest-string-chain](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1048-longest-string-chain) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 ## String
 |  |
@@ -42,6 +44,7 @@
 | [0067-add-binary](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0067-add-binary) |
 | [0097-interleaving-string](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0115-distinct-subsequences) |
+| [1048-longest-string-chain](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1143-longest-common-subsequence) |
 ## Sliding Window
@@ -89,12 +92,14 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0061-rotate-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [1048-longest-string-chain](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1048-longest-string-chain) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0018-4sum) |
 | [0368-largest-divisible-subset](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0368-largest-divisible-subset) |
+| [1048-longest-string-chain](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1048-longest-string-chain) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/dhruvrawat1807-web/leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 ## Stack
@@ -204,6 +209,7 @@
 | [0518-coin-change-ii](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0518-coin-change-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0931-minimum-falling-path-sum](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0931-minimum-falling-path-sum) |
+| [1048-longest-string-chain](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1143-longest-common-subsequence) |
 ## Manacher
