@@ -1,43 +1,34 @@
 class Solution {
     public int longestStrChain(String[] words) {
-        Arrays.sort(words, (a,b) -> a.length() - b.length());
-
-        int n = words.length;
-        int[] dp = new int[n];
-
-        Arrays.fill(dp,1);
-
-        int ans = 1;
-
-        for(int i = 0; i < n; i++){
-            for(int j = 0; j < i; j++) {
-
-                if(isPrevious(words[j], words[i])) {
-                    dp[i] = Math.max(dp[i], dp[j] + 1);
+        Arrays.sort(words,(a,b)->a.length()-b.length());
+        int n=words.length;
+        int maxLen=1;
+        int []dp= new int[n];
+        for(int i=0;i<n;i++){
+            dp[i]=1;
+            for(int j=0;j<i;j++){
+                if(isPred(words[j],words[i])){
+                    dp[i]=Math.max(dp[i],1+dp[j]);
                 }
             }
-
-            ans = Math.max(ans, dp[i]);
+            maxLen=Math.max(dp[i],maxLen);
         }
-        return ans;
+        return maxLen;
     }
-
-    public boolean isPrevious(String small, String big){
-        if(big.length() != small.length() + 1) {
+    public boolean isPred(String a, String b){
+        int m=a.length();
+        int n=b.length();
+        if((n-m)!=1){
             return false;
         }
-
-        int i = 0;
-        int j = 0;
-
-        while(i < small.length() && j < big.length()){
-            if(small.charAt(i) == big.charAt(j)){
+        int i=0;
+        int j=0;
+        while(i<m && j<n){
+            if(a.charAt(i)==b.charAt(j)){
                 i++;
             }
-        
-                j++;
-            
+            j++;
         }
-        return i == small.length();
+        return i==m;
     }
 }
