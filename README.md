@@ -49,6 +49,7 @@
 | [1048-longest-string-chain](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1143-longest-common-subsequence) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -108,10 +109,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0020-valid-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0020-valid-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Linked List
 |  |
 | ------- |
