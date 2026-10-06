@@ -69,6 +69,7 @@
 | [0184-department-highest-salary](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0185-department-top-three-salaries) |
 | [0262-trips-and-users](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0262-trips-and-users) |
+| [0550-game-play-analysis-iv](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0550-game-play-analysis-iv) |
 | [0585-investments-in-2016](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0585-investments-in-2016) |
 | [1084-sales-analysis-iii](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1084-sales-analysis-iii) |
 | [1211-queries-quality-and-percentage](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1211-queries-quality-and-percentage) |
