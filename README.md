@@ -81,6 +81,7 @@
 | [1148-article-views-i](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1148-article-views-i) |
 | [1211-queries-quality-and-percentage](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1211-queries-quality-and-percentage) |
 | [1321-restaurant-growth](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1321-restaurant-growth) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1341-movie-rating](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1341-movie-rating) |
 | [1661-average-time-of-process-per-machine](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1661-average-time-of-process-per-machine) |
 ## Math
