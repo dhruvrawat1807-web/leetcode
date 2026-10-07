@@ -50,6 +50,7 @@
 | [0091-decode-ways](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0115-distinct-subsequences) |
+| [0132-palindrome-partitioning-ii](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1048-longest-string-chain](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1092-shortest-common-supersequence) |
@@ -223,6 +224,7 @@
 | [0091-decode-ways](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0115-distinct-subsequences) |
+| [0132-palindrome-partitioning-ii](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0198-house-robber](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0221-maximal-square) |
 | [0300-longest-increasing-subsequence](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0300-longest-increasing-subsequence) |
