@@ -52,6 +52,7 @@
 | [0097-interleaving-string](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0115-distinct-subsequences) |
 | [0132-palindrome-partitioning-ii](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0132-palindrome-partitioning-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1048-longest-string-chain](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1092-shortest-common-supersequence) |
@@ -265,6 +266,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0494-target-sum) |
 ## Knapsack Problem
 |  |
@@ -292,6 +294,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0322-coin-change) |
 ## Complete Knapsack
 |  |
