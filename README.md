@@ -28,6 +28,7 @@
 | [1027-longest-arithmetic-subsequence](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1043-partition-array-for-maximum-sum](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1048-longest-string-chain) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1626-best-team-with-no-conflicts](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1626-best-team-with-no-conflicts) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/dhruvrawat1807-web/leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
@@ -123,6 +124,7 @@
 | [0018-4sum](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0018-4sum) |
 | [0368-largest-divisible-subset](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0368-largest-divisible-subset) |
 | [1048-longest-string-chain](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1048-longest-string-chain) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1626-best-team-with-no-conflicts](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1626-best-team-with-no-conflicts) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/dhruvrawat1807-web/leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
@@ -254,6 +256,7 @@
 | [1048-longest-string-chain](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1143-longest-common-subsequence) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1626-best-team-with-no-conflicts](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1626-best-team-with-no-conflicts) |
 ## Manacher
 |  |
