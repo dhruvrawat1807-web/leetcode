@@ -19,6 +19,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0368-largest-divisible-subset) |
+| [0486-predict-the-winner](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0518-coin-change-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -97,6 +98,7 @@
 | [0067-add-binary](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0070-climbing-stairs) |
 | [0368-largest-divisible-subset](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0368-largest-divisible-subset) |
+| [0486-predict-the-winner](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0877-stone-game) |
 | [2427-number-of-common-factors](https://github.com/dhruvrawat1807-web/leetcode/tree/master/2427-number-of-common-factors) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/dhruvrawat1807-web/leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
@@ -186,6 +188,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0050-powx-n) |
+| [0486-predict-the-winner](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0486-predict-the-winner) |
 ## Enumeration
 |  |
 | ------- |
@@ -237,6 +240,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0368-largest-divisible-subset) |
+| [0486-predict-the-winner](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0518-coin-change-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -324,14 +328,17 @@
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0877-stone-game) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/dhruvrawat1807-web/leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 ## Minimax
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0877-stone-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
