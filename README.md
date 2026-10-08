@@ -57,6 +57,7 @@
 | [0132-palindrome-partitioning-ii](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0132-palindrome-partitioning-ii) |
 | [0301-remove-invalid-parentheses](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1048-longest-string-chain](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1143-longest-common-subsequence) |
@@ -130,6 +131,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Bracket Sequences
 |  |
@@ -137,6 +139,7 @@
 | [0020-valid-parentheses](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0022-generate-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Linked List
 |  |
