@@ -31,6 +31,7 @@
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1626-best-team-with-no-conflicts](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1626-best-team-with-no-conflicts) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/dhruvrawat1807-web/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/dhruvrawat1807-web/leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3875-construct-uniform-parity-array-i](https://github.com/dhruvrawat1807-web/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/dhruvrawat1807-web/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -129,6 +130,7 @@
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1626-best-team-with-no-conflicts](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1626-best-team-with-no-conflicts) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/dhruvrawat1807-web/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/dhruvrawat1807-web/leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 ## Stack
 |  |
@@ -165,6 +167,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/dhruvrawat1807-web/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Merge Sort
 |  |
 | ------- |
@@ -222,6 +225,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [1027-longest-arithmetic-subsequence](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1027-longest-arithmetic-subsequence) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/dhruvrawat1807-web/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Matrix
 |  |
 | ------- |
@@ -311,6 +315,7 @@
 | [0055-jump-game](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0055-jump-game) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/dhruvrawat1807-web/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/dhruvrawat1807-web/leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 ## Breadth-First Search
 |  |
