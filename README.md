@@ -35,6 +35,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/dhruvrawat1807-web/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/dhruvrawat1807-web/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/dhruvrawat1807-web/leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/dhruvrawat1807-web/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/dhruvrawat1807-web/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/dhruvrawat1807-web/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Hash Table
@@ -135,6 +136,7 @@
 | [1636-sort-array-by-increasing-frequency](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/dhruvrawat1807-web/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/dhruvrawat1807-web/leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/dhruvrawat1807-web/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Stack
 |  |
 | ------- |
@@ -323,6 +325,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/dhruvrawat1807-web/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/dhruvrawat1807-web/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/dhruvrawat1807-web/leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/dhruvrawat1807-web/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Breadth-First Search
 |  |
 | ------- |
