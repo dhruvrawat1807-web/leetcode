@@ -19,6 +19,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0368-largest-divisible-subset) |
+| [0410-split-array-largest-sum](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0518-coin-change-ii) |
@@ -230,6 +231,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0410-split-array-largest-sum) |
 | [1027-longest-arithmetic-subsequence](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1027-longest-arithmetic-subsequence) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/dhruvrawat1807-web/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Matrix
@@ -259,6 +261,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0368-largest-divisible-subset) |
+| [0410-split-array-largest-sum](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0486-predict-the-winner](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0518-coin-change-ii) |
@@ -320,6 +323,7 @@
 | [0044-wildcard-matching](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0055-jump-game) |
+| [0410-split-array-largest-sum](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/dhruvrawat1807-web/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -366,4 +370,8 @@
 | ------- |
 | [0486-predict-the-winner](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0877-stone-game) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
