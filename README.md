@@ -35,6 +35,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/dhruvrawat1807-web/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/dhruvrawat1807-web/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/dhruvrawat1807-web/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/dhruvrawat1807-web/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/dhruvrawat1807-web/leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/dhruvrawat1807-web/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/dhruvrawat1807-web/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -48,6 +49,7 @@
 | [1048-longest-string-chain](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1048-longest-string-chain) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/dhruvrawat1807-web/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/dhruvrawat1807-web/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## String
 |  |
 | ------- |
@@ -352,10 +354,12 @@
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/dhruvrawat1807-web/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/dhruvrawat1807-web/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Game Theory
 |  |
 | ------- |
