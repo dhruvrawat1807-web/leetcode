@@ -32,6 +32,7 @@
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1626-best-team-with-no-conflicts](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1626-best-team-with-no-conflicts) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/dhruvrawat1807-web/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/dhruvrawat1807-web/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/dhruvrawat1807-web/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/dhruvrawat1807-web/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -141,6 +142,7 @@
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1626-best-team-with-no-conflicts](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1626-best-team-with-no-conflicts) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/dhruvrawat1807-web/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/dhruvrawat1807-web/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/dhruvrawat1807-web/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/dhruvrawat1807-web/leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
@@ -240,6 +242,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0410-split-array-largest-sum) |
 | [1027-longest-arithmetic-subsequence](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1027-longest-arithmetic-subsequence) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/dhruvrawat1807-web/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/dhruvrawat1807-web/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Matrix
 |  |
