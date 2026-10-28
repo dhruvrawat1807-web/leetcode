@@ -42,6 +42,7 @@
 | [3727-maximum-alternating-sum-of-squares](https://github.com/dhruvrawat1807-web/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/dhruvrawat1807-web/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/dhruvrawat1807-web/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/dhruvrawat1807-web/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/dhruvrawat1807-web/leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Hash Table
 |  |
@@ -255,6 +256,7 @@
 | [0221-maximal-square](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0931-minimum-falling-path-sum) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/dhruvrawat1807-web/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -290,6 +292,7 @@
 | [1278-palindrome-partitioning-iii](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1278-palindrome-partitioning-iii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1626-best-team-with-no-conflicts](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1626-best-team-with-no-conflicts) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/dhruvrawat1807-web/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Manacher
 |  |
 | ------- |
@@ -307,6 +310,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0067-add-binary) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/dhruvrawat1807-web/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/dhruvrawat1807-web/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
