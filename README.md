@@ -30,6 +30,7 @@
 | [1027-longest-arithmetic-subsequence](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1043-partition-array-for-maximum-sum](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1048-longest-string-chain) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1626-best-team-with-no-conflicts](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1626-best-team-with-no-conflicts) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -139,6 +140,7 @@
 | [0061-rotate-list](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0061-rotate-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1048-longest-string-chain](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1048-longest-string-chain) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Sorting
 |  |
 | ------- |
@@ -146,6 +148,7 @@
 | [0018-4sum](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0018-4sum) |
 | [0368-largest-divisible-subset](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0368-largest-divisible-subset) |
 | [1048-longest-string-chain](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1048-longest-string-chain) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1626-best-team-with-no-conflicts](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1626-best-team-with-no-conflicts) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -252,6 +255,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0410-split-array-largest-sum) |
 | [1027-longest-arithmetic-subsequence](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1027-longest-arithmetic-subsequence) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/dhruvrawat1807-web/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/dhruvrawat1807-web/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Matrix
