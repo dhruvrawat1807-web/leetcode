@@ -130,6 +130,7 @@
 | [2427-number-of-common-factors](https://github.com/dhruvrawat1807-web/leetcode/tree/master/2427-number-of-common-factors) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/dhruvrawat1807-web/leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/dhruvrawat1807-web/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/dhruvrawat1807-web/leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3875-construct-uniform-parity-array-i](https://github.com/dhruvrawat1807-web/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/dhruvrawat1807-web/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3886-sum-of-sortable-integers](https://github.com/dhruvrawat1807-web/leetcode/tree/master/3886-sum-of-sortable-integers) |
@@ -364,6 +365,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/dhruvrawat1807-web/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/dhruvrawat1807-web/leetcode/tree/master/3627-maximum-median-sum-of-subsequences-of-size-3) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/dhruvrawat1807-web/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/dhruvrawat1807-web/leetcode/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Breadth-First Search
 |  |
 | ------- |
