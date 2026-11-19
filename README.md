@@ -14,6 +14,7 @@
 | [0063-unique-paths-ii](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0063-unique-paths-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0221-maximal-square) |
 | [0239-sliding-window-maximum](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -268,6 +269,7 @@
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0063-unique-paths-ii) |
+| [0200-number-of-islands](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0931-minimum-falling-path-sum](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0931-minimum-falling-path-sum) |
@@ -369,6 +371,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0200-number-of-islands) |
 | [0301-remove-invalid-parentheses](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0322-coin-change) |
 ## Complete Knapsack
@@ -424,4 +427,12 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0239-sliding-window-maximum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
