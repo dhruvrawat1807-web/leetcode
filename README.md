@@ -25,6 +25,7 @@
 | [0486-predict-the-winner](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0542-01-matrix) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0877-stone-game](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0931-minimum-falling-path-sum) |
@@ -273,6 +274,7 @@
 | [0200-number-of-islands](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0221-maximal-square) |
 | [0240-search-a-2d-matrix-ii](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0542-01-matrix](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0542-01-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0994-rotting-oranges) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/dhruvrawat1807-web/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -300,6 +302,7 @@
 | [0486-predict-the-winner](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0486-predict-the-winner) |
 | [0494-target-sum](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0518-coin-change-ii) |
+| [0542-01-matrix](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0542-01-matrix) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0877-stone-game](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0931-minimum-falling-path-sum) |
@@ -376,6 +379,7 @@
 | [0200-number-of-islands](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0200-number-of-islands) |
 | [0301-remove-invalid-parentheses](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0322-coin-change) |
+| [0542-01-matrix](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0994-rotting-oranges) |
 ## Complete Knapsack
 |  |
