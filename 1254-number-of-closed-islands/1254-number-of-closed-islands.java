@@ -1,26 +1,35 @@
+
+import java.util.*;
+
 class Solution {
+
     public int closedIsland(int[][] grid) {
+
         int m = grid.length;
         int n = grid[0].length;
-        int count = 0;
 
-        // Visit boundary-connected land first
+        
+
         for (int i = 0; i < m; i++) {
-            dfs(grid, i, 0);
-            dfs(grid, i, n - 1);
+            bfs(grid, i, 0);
+            bfs(grid, i, n - 1);
         }
 
         for (int j = 0; j < n; j++) {
-            dfs(grid, 0, j);
-            dfs(grid, m - 1, j);
+            bfs(grid, 0, j);
+            bfs(grid, m - 1, j);
         }
 
-        // Count remaining islands
-        for (int i = 1; i < m - 1; i++) {
-            for (int j = 1; j < n - 1; j++) {
+       
+
+        int count = 0;
+
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+
                 if (grid[i][j] == 0) {
                     count++;
-                    dfs(grid, i, j);
+                    bfs(grid, i, j);
                 }
             }
         }
@@ -28,20 +37,53 @@ class Solution {
         return count;
     }
 
-    private void dfs(int[][] grid, int i, int j) {
+    void bfs(int[][] grid, int row, int col) {
+
         int m = grid.length;
         int n = grid[0].length;
 
-        if (i < 0 || j < 0 || i >= m || j >= n || grid[i][j] == 1) {
+      
+        if (row < 0 || col < 0 ||
+            row >= m || col >= n ||
+            grid[row][col] == 1) {
             return;
         }
 
-        // Mark land as visited
-        grid[i][j] = 1;
+        Queue<int[]> q = new ArrayDeque<>();
 
-        dfs(grid, i + 1, j); // Down
-        dfs(grid, i - 1, j); // Up
-        dfs(grid, i, j + 1); // Right
-        dfs(grid, i, j - 1); // Left
+        q.offer(new int[]{row, col});
+
+        
+        grid[row][col] = 1;
+
+        int[][] directions = {
+            {1, 0},
+            {-1, 0},
+            {0, 1},
+            {0, -1}
+        };
+
+        while (!q.isEmpty()) {
+
+            int[] cell = q.poll();
+
+            int r = cell[0];
+            int c = cell[1];
+
+            for (int[] dir : directions) {
+
+                int nr = r + dir[0];
+                int nc = c + dir[1];
+
+                if (nr >= 0 && nc >= 0 &&
+                    nr < m && nc < n &&
+                    grid[nr][nc] == 0) {
+
+                    grid[nr][nc] = 1;
+
+                    q.offer(new int[]{nr, nc});
+                }
+            }
+        }
     }
 }
