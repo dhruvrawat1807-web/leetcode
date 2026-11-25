@@ -8,13 +8,13 @@ class Solution {
         int m = board.length;
         int n = board[0].length;
 
-        // Check first and last column
+       
         for (int i = 0; i < m; i++) {
             bfs(board, i, 0);
             bfs(board, i, n - 1);
         }
 
-        // Check first and last row
+       
         for (int j = 0; j < n; j++) {
             bfs(board, 0, j);
             bfs(board, m - 1, j);
@@ -51,7 +51,7 @@ class Solution {
 
         q.offer(new int[]{row, col});
 
-        // Mark visited
+       
         board[row][col] = '#';
 
         int[][] directions = {
