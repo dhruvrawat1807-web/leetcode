@@ -34,6 +34,7 @@
 | [1027-longest-arithmetic-subsequence](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1043-partition-array-for-maximum-sum](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1048-longest-string-chain) |
+| [1254-number-of-closed-islands](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1626-best-team-with-no-conflicts](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1626-best-team-with-no-conflicts) |
@@ -279,6 +280,7 @@
 | [0931-minimum-falling-path-sum](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1254-number-of-closed-islands) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/dhruvrawat1807-web/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Dynamic Programming
 |  |
@@ -384,6 +386,7 @@
 | [0542-01-matrix](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1254-number-of-closed-islands) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -442,9 +445,11 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0200-number-of-islands) |
 | [1020-number-of-enclaves](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1254-number-of-closed-islands) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0200-number-of-islands) |
 | [1020-number-of-enclaves](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->
