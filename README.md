@@ -30,6 +30,7 @@
 | [0877-stone-game](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0877-stone-game) |
 | [0931-minimum-falling-path-sum](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1020-number-of-enclaves) |
 | [1027-longest-arithmetic-subsequence](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1027-longest-arithmetic-subsequence) |
 | [1043-partition-array-for-maximum-sum](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1048-longest-string-chain) |
@@ -277,6 +278,7 @@
 | [0542-01-matrix](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0542-01-matrix) |
 | [0931-minimum-falling-path-sum](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1020-number-of-enclaves) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/dhruvrawat1807-web/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Dynamic Programming
 |  |
@@ -381,6 +383,7 @@
 | [0322-coin-change](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0542-01-matrix) |
 | [0994-rotting-oranges](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1020-number-of-enclaves) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -438,8 +441,10 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0200-number-of-islands) |
+| [1020-number-of-enclaves](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1020-number-of-enclaves) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0200-number-of-islands) |
+| [1020-number-of-enclaves](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1020-number-of-enclaves) |
 <!---LeetCode Topics End-->
