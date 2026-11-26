@@ -40,6 +40,7 @@
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1626-best-team-with-no-conflicts](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1626-best-team-with-no-conflicts) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/dhruvrawat1807-web/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/dhruvrawat1807-web/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2747-count-zero-request-servers](https://github.com/dhruvrawat1807-web/leetcode/tree/master/2747-count-zero-request-servers) |
@@ -283,6 +284,7 @@
 | [0994-rotting-oranges](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/dhruvrawat1807-web/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Dynamic Programming
 |  |
@@ -390,6 +392,7 @@
 | [0994-rotting-oranges](https://github.com/dhruvrawat1807-web/leetcode/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/dhruvrawat1807-web/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Complete Knapsack
 |  |
 | ------- |
